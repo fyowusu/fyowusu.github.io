@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Felix Owusu | owusu@g.harvard.edu"
-excerpt: "About me"
+title: "About me"
+excerpt: "Felix Owusu | owusu@g.harvard.edu"
 author_profile: true
 redirect_from: 
   - /about/
